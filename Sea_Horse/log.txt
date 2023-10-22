@@ -1,0 +1,24 @@
+script 0
+adding
+
+projectile
+live
+score
+collision
+enemy occur
+winning condition
+Ammunition(ammo)
+
+script 1
+adding
+
+parallax background
+player imaged and animations
+three enemies images and animations
+debug mode by pressing d
+
+script 2
+adding 
+
+power up（shoot two lasers from both head and tail）
+projectile image fire
